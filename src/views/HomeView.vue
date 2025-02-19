@@ -1,6 +1,6 @@
 <template>
-  <div class="m-5 row" style="height: 400px">
-    <div class="col-6 offset-3 bg-light rounded-3 shadow-lg">
+  <div class="row mt-1" style="height: 400px">
+    <div class="col-10 offset-1 bg-light rounded-3 shadow-lg">
       <div class="text-center mt-2">
         <h4 class="text-danger">
           <i class="fa-regular fa-clipboard"></i> {{ title }}
