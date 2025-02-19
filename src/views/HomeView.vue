@@ -60,7 +60,7 @@
       <div class="row">
         <div class="col-10 offset-1 d-flex justify-content-between mb-2">
           <button
-            class="btn-sm btn btn-outline-danger mt-2 rounded-3 col-6 col-md-5 me-sm-1"
+            class="btn-sm btn btn-outline-danger mt-2 rounded-3 col-6 col-md-5 me-sm-3"
             @click="complete()"
           >
             Clear <span class="d-md-inline d-sm-block">completed</span>
